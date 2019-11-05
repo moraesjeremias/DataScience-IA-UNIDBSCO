@@ -33,6 +33,9 @@ http://bit.ly/UNIDBSCO-Agenda
 # Materiais
 http://bit.ly/Materiais-IA
 
+# Gitbook
+http://bit.ly/Gitbook-UNIDBSCO
+
 # Manual do Aluno
 http://bit.ly/Manual-do-Aluno
 
