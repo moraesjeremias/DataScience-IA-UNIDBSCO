@@ -1,7 +1,7 @@
 # DataScience-IA-UNIDBSCO
-Repositório com toda informação do Curso Ciência de Dados e Inteligência Artificial - Universidade Dom Bosco
+Repositório com toda informação do curso Ciência de Dados e Inteligência Artificial - Universidade Dom Bosco
 
-Prezadas e prezados, Este repositório foi criado para facilitar o andamento do curso Sistemas para Internet (IoT) EaD pela Universidade Dom Bosco.
+Prezadas e prezados, Este repositório foi criado para facilitar o andamento do curso Ciência de Dados e Inteligência Artificial EaD pela Universidade Dom Bosco.
 
 Organizado por Jeremias Moraes
 
