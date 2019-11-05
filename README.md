@@ -31,12 +31,15 @@ Link para agenda do Google:
 http://bit.ly/UNIDBSCO-Agenda
 
 # Materiais
+
 http://bit.ly/Materiais-IA
 
-# Gitbook
+# Gitbook - Materiais Extras
+
 http://bit.ly/Gitbook-UNIDBSCO
 
 # Manual do Aluno
+
 http://bit.ly/Manual-do-Aluno
 
 # E-mails Importantes
