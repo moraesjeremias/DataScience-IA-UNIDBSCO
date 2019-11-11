@@ -17,7 +17,7 @@ http://bit.ly/Cronograma-UNIDBSCO-2019-2
 
 Abaixo alguns Deadlines importantes:
 
-12/11 - Entrega Estudo de Caso
+20/11 - Entrega Estudo de Caso
 
 23/11 - Entrega Prova Eletrônica
 
