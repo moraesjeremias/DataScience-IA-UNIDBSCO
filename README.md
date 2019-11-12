@@ -36,7 +36,7 @@ http://bit.ly/Materiais-IA
 
 # Gitbook - Materiais Extras
 
-http://bit.ly/Gitbook-UNIDBSCO
+https://moraesjeremias.gitbook.io/ciencia-de-dados-e-ia/
 
 # Manual do Aluno
 
