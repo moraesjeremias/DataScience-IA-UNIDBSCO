@@ -10,7 +10,7 @@ Em virtude de grande volume de dúvidas a Universidade Dom Bosco compilou alguma
 
 http://bit.ly/FAQ-UNIDBSCO
 
-# Calendário de 2020
+# Calendário 2020-1
 
 http://bit.ly/Cronograma-UNIDBSCO-2020
 
@@ -34,7 +34,7 @@ Slides, Livros, Podcasts, Video-aulas e Materiais Complementares:
 
 http://bit.ly/Materiais-IA
 
-# Gitbook - Materiais Extras
+# Gitbook - Anotações de Aula e Materiais Extras
 Conteúdos pertinentes às disciplinas:
 
 https://moraesjeremias.gitbook.io/ciencia-de-dados-e-ia/
