@@ -10,7 +10,7 @@ Em virtude de grande volume de dúvidas a Universidade Dom Bosco compilou alguma
 
 http://bit.ly/FAQ-UNIDBSCO
 
-#Segue o link para o Calendário de 2020
+# Calendário de 2020
 
 http://bit.ly/Cronograma-UNIDBSCO-2020
 
