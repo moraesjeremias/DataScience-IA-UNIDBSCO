@@ -11,18 +11,19 @@ Em virtude de grande volume de dúvidas a Universidade Dom Bosco compilou alguma
 http://bit.ly/FAQ-UNIDBSCO
 
 # Calendário 2020-1
+Segue o link para o Calendário de 2020
 
 http://bit.ly/Cronograma-UNIDBSCO-2020
 
 Abaixo alguns Deadlines importantes:
 
-09/04 - Entrega Estudo de Caso
+06/06 - Entrega Estudo de Caso
 
-30/04 - Entrega Prova Eletrônica
+13/06 - Entrega Prova Eletrônica
 
-18/04 - Prova Presencial
+20/06 - Prova Presencial
 
-02/05 - Prova Final
+10/07 - Prova Final
 
 # Agenda Google
 Link para agenda do Google! Sincronize as atividades em seu celular, notebook e e-mail!
