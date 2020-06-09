@@ -10,6 +10,12 @@ Em virtude de grande volume de dúvidas a Universidade Dom Bosco compilou alguma
 
 http://bit.ly/FAQ-UNIDBSCO
 
+# Matriz Curricular
+
+Acesso para matriz curricular do curso Ciência de Dados e Inteligência Artificial:
+
+https://bit.ly/matriz-IA
+
 # Calendário 2020-1
 Segue o link para o Calendário de 2020
 
