@@ -23,9 +23,9 @@ http://bit.ly/Cronograma-UNIDBSCO-2020
 
 Abaixo alguns Deadlines importantes:
 
-06/06 - Entrega Estudo de Caso
+13/06 - Entrega Estudo de Caso
 
-13/06 - Entrega Prova Eletrônica
+20/06 - Entrega Prova Eletrônica
 
 20/06 - Prova Presencial
 
