@@ -16,7 +16,7 @@ Acesso para matriz curricular do curso Ciência de Dados e Inteligência Artific
 
 https://bit.ly/matriz-IA
 
-# Calendário 2020-3
+# Calendário 2020-4
 Segue o link para o Calendário de 2020
 
 http://bit.ly/Cronograma-UNIDBSCO-2020
