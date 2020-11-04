@@ -23,13 +23,15 @@ http://bit.ly/Cronograma-UNIDBSCO-2020
 
 Abaixo alguns Deadlines importantes:
 
-11/09 - Entrega Estudo de Caso
+16/11 - Entrega Estudo de Caso
 
-20/09 - Entrega Prova Eletrônica
+27/11 - Entrega Prova Eletrônica
 
-19/09 - Prova Presencial
+21/11 - Prova Presencial
 
-03/10 - Prova Final
+02/12 - Projeto Integrador
+
+12/12 - Prova Final
 
 # Agenda Google
 Link para agenda do Google! Sincronize as atividades em seu celular, notebook e e-mail!
