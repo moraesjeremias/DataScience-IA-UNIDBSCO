@@ -16,22 +16,22 @@ Acesso para matriz curricular do curso Ciência de Dados e Inteligência Artific
 
 https://bit.ly/matriz-IA
 
-# Calendário 2020-4
-Segue o link para o Calendário de 2020
+# Calendário 2021
+Segue o link para o Calendário de 2021
 
-http://bit.ly/Cronograma-UNIDBSCO-2020
+http://bit.ly/Cronograma-UNIDBSCO-2021
 
 Abaixo alguns Deadlines importantes:
 
-16/11 - Entrega Estudo de Caso
+09/04 - Entrega Estudo de Caso
 
-27/11 - Entrega Prova Eletrônica
+25/04 - Entrega Prova Eletrônica
 
-21/11 - Prova Presencial
+17/04 - Prova Presencial
 
-02/12 - Projeto Integrador
+A ser Divulgado - Projeto Integrador
 
-12/12 - Prova Final
+01/05 - Prova Final
 
 # Agenda Google
 Link para agenda do Google! Sincronize as atividades em seu celular, notebook e e-mail!
