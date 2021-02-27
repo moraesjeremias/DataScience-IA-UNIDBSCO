@@ -14,7 +14,7 @@ http://bit.ly/FAQ-UNIDBSCO
 
 Acesso para matriz curricular do curso Ciência de Dados e Inteligência Artificial:
 
-https://bit.ly/matriz-IA
+http://bit.ly/matriz-IA-2021
 
 # Calendário 2021
 Segue o link para o Calendário de 2021
