@@ -21,15 +21,15 @@ Segue o link para o Calendário de 2021
 
 http://bit.ly/Cronograma-UNIDBSCO-2021
 
-Abaixo alguns Deadlines importantes:
+Abaixo alguns Deadlines importantes 2021.1-II:
 
-09/04 - Entrega Estudo de Caso
+06/06 - Entrega Estudo de Caso
 
-25/04 - Entrega Prova Eletrônica
+13/06 - Entrega Prova Eletrônica
 
-17/04 - Prova Presencial
+19/06 - Prova Presencial
 
-A ser Divulgado - Projeto Integrador
+27/06 - Projeto Integrador
 
 01/05 - Prova Final
 
