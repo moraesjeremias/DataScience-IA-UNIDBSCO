@@ -31,7 +31,7 @@ Abaixo alguns Deadlines importantes 2021.1-II:
 
 27/06 - Projeto Integrador
 
-01/05 - Prova Final
+10/07 - Prova Final
 
 # Agenda Google
 Link para agenda do Google! Sincronize as atividades em seu celular, notebook e e-mail!
